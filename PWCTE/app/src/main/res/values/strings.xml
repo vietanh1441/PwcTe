@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PWCTE</string>
+    <string name="num1">num1</string>
+    <string name="num2">num2</string>
+    <string name="Next">Next Question</string>
+    <string name="Top">Choose the bigger number</string>
+    <string name="Correct">Correct!</string>
+    <string name="Inccorect">Incorrect</string>
+    <string name="Equal">They are equal</string>
+</resources>
